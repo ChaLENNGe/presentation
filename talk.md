@@ -6,7 +6,7 @@
 
 <img src="assets/teaser.gif" style="height:230px; border-radius:8px; box-shadow:0 4px 15px rgba(0,0,0,0.25);" alt="Karman vortex street teaser">
 
-<p class="subtitle">ML4PhA · Group 11</p>
+<p class="subtitle">Tai Ho on behalf of team ChaLENNGe</p>
 
 ---
 
