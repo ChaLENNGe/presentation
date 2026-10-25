@@ -114,7 +114,7 @@ A workflow in `.github/workflows/deploy.yml` stages `index.html`, `talk.html`,
 
 1. Repo Settings → Pages → Source = **GitHub Actions**.
 2. Push to `main`; the deck appears at
-   `https://ML4PhA-G11.github.io/presentation/`.
+   `https://ChaLENNGe.github.io/presentation/`.
 
 > The workflow publishes the static files directly (no `gh-pages` branch to
 > manage). Commit your placeholder or real assets before pushing.
